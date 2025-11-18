@@ -61,4 +61,4 @@
 
 ```bash
 git clone https://github.com/tuusuario/trustlamp.git
-cd trustlamp
+cd trustlamp_
